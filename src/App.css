@@ -66,5 +66,5 @@
   width: 575px;
   opacity: 1;
   transform: translate3d(-2300px, 0px, 0px);
-  transition-duration: 0ms;
+  transition-duration: 0ms; 
 }

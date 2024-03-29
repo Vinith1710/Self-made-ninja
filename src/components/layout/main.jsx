@@ -405,7 +405,7 @@ of the biggest brands and start-ups.
                     <img src={vijayStudent} alt="student-pic" class="student-feedback-profile-pic" loading="lazy"></img>
                     <div class="student-feedback-details">
                         <h3 class="student-feedback-name">Vijayan R</h3>
-                        <h4 class="student-feedback-course-name">LAHTP Student</h4>
+                        <h4 class="student-feedback-course-name">LAHTP Student </h4>
                     </div>
                 </div>
             </div>

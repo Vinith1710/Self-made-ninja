@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/self-made-ninja/static/css/main.33391eb8.css",
+    "main.js": "/self-made-ninja/static/js/main.40cfd5bc.js",
+    "static/media/SNA-hero.png": "/self-made-ninja/static/media/SNA-hero.45fbe4c2d5192e901c4b.png",
+    "static/media/Nishant 1.png": "/self-made-ninja/static/media/Nishant 1.4580ff2dffd394362322.png",
+    "static/media/Sibidharan 1.png": "/self-made-ninja/static/media/Sibidharan 1.e27ee59f9ec248d42f86.png",
+    "static/media/Manoj 1f8c677.png": "/self-made-ninja/static/media/Manoj 1f8c677.8ad57a54f9cf93831a9d.png",
+    "static/media/student-hari-boy.png": "/self-made-ninja/static/media/student-hari-boy.8937870241959b89d992.png",
+    "static/media/student-vijay-boy.png": "/self-made-ninja/static/media/student-vijay-boy.0f91f7883ab475f7d650.png",
+    "static/media/student-rajith-boy.png": "/self-made-ninja/static/media/student-rajith-boy.11d8f2ef05f550f0bf6b.png",
+    "static/media/student-krithik-boy.png": "/self-made-ninja/static/media/student-krithik-boy.05b98aabb6e42dfe7c9c.png",
+    "static/media/student-venky-boy.png": "/self-made-ninja/static/media/student-venky-boy.6b69bd2cd8b08fe4bc62.png",
+    "static/media/Vpn-4.png": "/self-made-ninja/static/media/Vpn-4.349d3b9afd7932320320.png",
+    "static/media/Feedback.png": "/self-made-ninja/static/media/Feedback.f4254baad078b386e548.png",
+    "static/media/html-tag.png": "/self-made-ninja/static/media/html-tag.b0ac5e52aec646dab942.png",
+    "static/media/curly-braces.png": "/self-made-ninja/static/media/curly-braces.a98504121abf4759b6e0.png",
+    "static/media/iot.svg": "/self-made-ninja/static/media/iot.55ce954637abca4b8516b42ff1baa178.svg",
+    "static/media/logo-text.svg": "/self-made-ninja/static/media/logo-text.692183560b55969c884902cb93d207b2.svg",
+    "static/media/coding.svg": "/self-made-ninja/static/media/coding.57aa8c70bd26e09d2f7facb98e5396fc.svg",
+    "index.html": "/self-made-ninja/index.html",
+    "static/media/java.svg": "/self-made-ninja/static/media/java.dd19ad383e5c04c5b50daffb26012bbc.svg",
+    "static/media/happy-svg.svg": "/self-made-ninja/static/media/happy-svg.b1471845aae8962da256c05777cde321.svg",
+    "static/media/people-svg.svg": "/self-made-ninja/static/media/people-svg.b4d0bb1422a256aea39b8d24f0cf868c.svg",
+    "static/media/hackerhat.svg": "/self-made-ninja/static/media/hackerhat.471e2dbc1c5148fed38d8805d4528007.svg",
+    "static/media/bulb-svg.svg": "/self-made-ninja/static/media/bulb-svg.f3df54bf46b53748b9161392d039f12b.svg",
+    "static/media/git-svg.svg": "/self-made-ninja/static/media/git-svg.7bf80156f506ac304af6f15544e8a48e.svg",
+    "static/media/menu.svg": "/self-made-ninja/static/media/menu.40116e351fff02c7a8d16cdf09664064.svg",
+    "static/media/circle-left-arrow.svg": "/self-made-ninja/static/media/circle-left-arrow.855cd75a49c60cd64e32508f30fc8227.svg",
+    "static/media/circle-right-arrow.svg": "/self-made-ninja/static/media/circle-right-arrow.ca1e8715aa3ca96a710082205a73dd6b.svg",
+    "static/media/chevron-left.svg": "/self-made-ninja/static/media/chevron-left.f10cebc074b69c891d821f67bd127c34.svg",
+    "static/media/chevron-right.svg": "/self-made-ninja/static/media/chevron-right.e684cb98f4103b0520a1f3d15bdcacf2.svg",
+    "main.33391eb8.css.map": "/self-made-ninja/static/css/main.33391eb8.css.map",
+    "main.40cfd5bc.js.map": "/self-made-ninja/static/js/main.40cfd5bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33391eb8.css",
+    "static/js/main.40cfd5bc.js"
+  ]
+}

@@ -4,6 +4,7 @@ function Header(){
     return(
         <>
         {/* <h1>ABCD</h1> */}
+        {/* https://Vinith1710.github.io/self-made-ninja */}
         	<a href="https://wa.me/916380586139?text=Hi%2C%20I%20am%20(name)%0AI%20would%20like%20to%20know%20more%20about%20SNA%20" class="whatsapp_float" title="Get Help from Our Selfmade Ninja Academy Support Team" target="_blank" rel="noopener noreferrer">
 		<i class="fa fa-whatsapp whatsapp-icon"></i>
 	</a>
